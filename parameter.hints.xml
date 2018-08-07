@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.net.wifi.p2p.WifiP2pManager.initialize(srcContext,srcLooper,listener)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>
