@@ -54,6 +54,10 @@
           <option name="url" value="https://github.com/chardeefaye/Activity2_Calculator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chardeefaye/Exam_Leosala.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Android Studio Projects" />
